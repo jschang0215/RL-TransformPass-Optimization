@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "common.h": "c",
+        "math.h": "c",
+        "stdio.h": "c",
+        "csmith.h": "c",
+        "csmith_minimal.h": "c"
+    }
+}
