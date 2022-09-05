@@ -16,5 +16,5 @@ This is the source code repository of our work "PAPER TITLE". This study aims to
 
 ------
 
-Codes and ideas are all by [Juneseo Chang](https://jschang0215.github.io/) during his undergraduate research intern at [AI-SoC Lab](https://ai-soc.github.io/). Contact [jschang0215@snu.ac.kr](mailto:jschang0215@snu.ac.kr) for issues.
+Codes and ideas are by [Juneseo Chang](https://jschang0215.github.io/) during his undergraduate research intern at [AI-SoC Lab](https://ai-soc.github.io/), adivsed by Prof. Daejin Park. Contact [jschang0215@snu.ac.kr](mailto:jschang0215@snu.ac.kr) for issues.
 
