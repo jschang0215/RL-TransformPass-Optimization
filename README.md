@@ -14,4 +14,4 @@ This is the source code repository of our work "Optimizing LLVM Transform Passes
 
 `RL/` includes RL training and testing models. PPO, A3C, PG algorithms are investigated. More information and experiment result is in `RL/README.md`.
 
-License of the code and data will be changed to BSD-3-Clause license after DATE 2023's notification (November expected).
+License of the code and data will be changed to BSD-3-Clause license after EMSOFT 2023's notification.
