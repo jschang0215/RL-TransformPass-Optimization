@@ -4,7 +4,41 @@ This folder contains preprocessing operations. First we sieve useful flags, then
 
 ## 1. Flag Sieve
 
-**Sieve useful flags.** Flags in `data/Flag_Candidates` are tested on each IR in `data/IR_Candidates` by applying flag and profiling memory usage. 32 flags are found to reduce memory usage.
+**Sieve useful flags.** Flags in `data/Flag_Candidates` are tested on each IR in `data/IR_Candidates` by applying flag and profiling memory usage. The following 32 flags are found to reduce memory usage.
+```
+-adce
+-always-inline
+-argpromotion
+-constmerge
+-dce
+-deadargelim
+-dse
+-globaldce
+-globalop
+-gvn
+-instcombine
+-aggressive-instcombine
+-ipsccp
+-lcssa
+-licm
+-loop-deletion
+-loop-extract
+-loop-reduce
+-loop-rotate
+-loop-simplify
+-loop-unroll
+-loweratomic
+-lowerinvoke
+-lowerswitch
+-memcpyopt
+-mergefunc
+-mergereturn
+-reassociate
+-sroa
+-sccp
+-sink
+-strip
+```
 
 * `Flag_Seive.sh`: Wrapper shell script
   * `Flag_Seive_Core.sh`: Core shell script
