@@ -1,6 +1,6 @@
-# ML Compiler Flag Optimization for Reducing Memory Consumption
+# Searching Optimal Compiler Optimization Passes Sequence for Reducing Runtime Memory Profile using Ensemble Reinforcement Learning
 
-This is the source code repository of our work "Optimizing LLVM Transform Passes Sequence with Reinforcement Learning for Reducing Runtime Memory Profile", under review at EMSOFT 2023. This study aims to optimize memory usage by optimizing LLVM optimization flags using reinforcement learning. The repository in consisted of the followings:
+This is the source code repository of our work "Searching Optimal Compiler Optimization Passes Sequence for Reducing Runtime Memory Profile using Ensemble Reinforcement Learning", under review at EMSOFT 2023. This study aims to optimize memory usage by optimizing LLVM optimization flags using reinforcement learning. The repository in consisted of the followings:
 
 ## 1. Feature Extraction
 
